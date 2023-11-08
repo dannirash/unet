@@ -46,7 +46,7 @@ def test_intel_tensorflow():
               tf.pywrap_tensorflow.IsMklEnabled())
 
 print(args)
-test_intel_tensorflow()  # Prints if Intel-optimized TensorFlow is used.
+#test_intel_tensorflow()  # Prints if Intel-optimized TensorFlow is used.
 
 """
 crop_dim = Dimensions to crop the input tensor
