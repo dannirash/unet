@@ -17,7 +17,7 @@
 # SPDX-License-Identifier: EPL-2.0
 #
 
-DATA_PATH="../data/decathlon/Task01_BrainTumour/"
+DATA_PATH="../data/Task01_BrainTumour/"
 SAVED_MODEL_NAME="3d_unet_decathlon"
 
 EPOCHS=40
